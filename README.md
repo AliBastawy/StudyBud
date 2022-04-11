@@ -13,7 +13,7 @@ Move env Folder to StudyBud Folder so Visual Studio Code can realize it and work
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/AliBastawy/Django-Learn.git
+git clone https://github.com/AliBastawy/StudyBud.git
 
 ```
 
